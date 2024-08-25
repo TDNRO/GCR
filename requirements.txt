@@ -1,8 +1,0 @@
-selenium
-requests
-beautifulsoup4
-webdriver-manager
-openai
-pyautogui
-pillow
-pypdf2
